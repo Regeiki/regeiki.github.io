@@ -1,0 +1,10 @@
+{
+    "pessoa": [ 
+        { 
+            "nome": "pedro", 
+            "idade": "21", 
+            "cargo":"Desenvolvedor", 
+            "texto": "Estudando."  
+            }
+    ]
+}
